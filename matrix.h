@@ -1,11 +1,11 @@
 // matrix object
 /*
 Matrix lib powered by Ag2S at SDU 
-A fleshman leaner exercise project
+A fleshman learner's exercise project
 raly on another lib(Written by me) fraction.h
 If you find bug or has some suggestion
 please inform me at 179680737@qq.com
-thaks you
+thank you
 */
 #pragma once
 

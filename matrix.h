@@ -89,10 +89,11 @@ class matrix {
 		}
 
 		void input() {
-			/* This funcion is awful
+			/* 
+			This funcion is awful
 			One of my friend want to input a matrix with giving the line and roll numbers
-			so I do that
-			stop by click enter key twice 
+			so I manage to realize the function
+			end the input by click enter key twice 
 			*/
 			int iline = 0,iroll = 0;
     		string str;

@@ -4,7 +4,7 @@ Powered By Ag2S at SDU
 Just a fleshman learner =-=
 so the lib has bug please inform me at 
 179608737@qq.com(I got a school email but that would expose my student number)
-thaks for using
+thanks for using
 */
 #pragma once
 #ifndef __AG2S__FRACTION
